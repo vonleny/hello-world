@@ -7,3 +7,5 @@ This is my first repository commited locally
 * Make edit file
 
 I wanna do this again!!!!!
+
+I'm making this work!!! The hard way!!!!
